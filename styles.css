@@ -1,0 +1,181 @@
+
+
+.premier_page {
+    background-color: #BDC8FF;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2rem;
+    height: 10rem;
+    width: 20rem;
+    margin: auto;
+    margin-top: 20rem;
+}
+button {
+    background-color: #88d78c;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    width: 10rem;
+    height: 1.9rem;
+    margin-top: 1rem;
+    cursor: pointer;
+   
+}
+button:hover{
+    background-color: white;
+}
+button:active{
+  width: 8rem;
+}
+#check {
+    margin-top: 30px;
+}
+span{
+    font-size: 1rem;
+    font-family: Arial, sans-serif;
+}
+.one {
+    background-color: #857AB7;
+}
+
+.two {
+    background-color: #8FDAC8;
+}
+
+.tree {
+    background-color: #b3e1ac;
+}
+
+.for {
+    background-color: #E89B83;
+}
+
+.five {
+    background-color: #F1CAA6;
+}
+
+.six {
+    background-color: #f2f9cf;
+}
+
+.ten {
+    background-color: #FDEEC0;
+}
+
+.seven {
+    background-color: #7ab1d3;
+}
+
+.eight {
+    background-color: #d1848d;
+}
+
+.nine {
+    background-color: #884467;
+}
+td {
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+    font-family: Arial, sans-serif;
+    
+}
+table{
+margin: auto;
+}
+strong {
+    font-size: large;
+}
+.img {
+    margin-left: 70rem;
+    margin-top: 30px;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+/*premiere page
+
+@media screen and (max-width : 443px) {
+   
+}
+@media screen and (main-width : 250px) {
+    .premier_page {
+        
+    }
+}
+
+
+
+/* 2em page
+
+
+
+
+
+section {
+    justify-content: center;
+    display: flex;
+    
+
+}
+
+
+
+img {
+    height: 100px;
+    width: 90px;
+    border-radius: 100%;
+
+}
+
+
+
+@media screen and (max-width : 1400px) {
+    table tr td {
+        font-size: 4rem;
+    }
+
+}
+
+@media screen and (max-width : 1300px) {
+    table tr td {
+        font-size: 7px;
+    }
+
+}
+@media screen and (max-width : 1100px) {
+    table tr td {
+        font-size: 6px;
+    }
+
+}
+@media screen and (max-width : 1010px) {
+    table tr td {
+        font-size: 4px;
+    }
+
+}
+@media screen and (max-width : 853px) {
+    table tr td {
+        font-size: px;
+    }
+
+}
+@media screen and (max-width : 860px) {
+    table tr td {
+        font-size: 0.9px;
+    }
+
+}
+
+
+
+
+/*
+#text {
+    padding-top: 2px;
+    text-align: center;
+}
+ 
+fichier2*/
